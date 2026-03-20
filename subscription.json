@@ -1,0 +1,34 @@
+{
+  "plans": [
+    {
+      "id": "monthly",
+      "name_en": "Monthly",
+      "name_ar": "شهري",
+      "price": 100,
+      "currency": "EGP",
+      "duration_days": 30,
+      "description_en": "1 month full access",
+      "description_ar": "وصول كامل لمدة شهر واحد"
+    },
+    {
+      "id": "semi_annual",
+      "name_en": "6 Months",
+      "name_ar": "٦ أشهر",
+      "price": 500,
+      "currency": "EGP",
+      "duration_days": 180,
+      "description_en": "6 months full access — Save 17%",
+      "description_ar": "وصول كامل لمدة ٦ أشهر — وفر ١٧٪"
+    },
+    {
+      "id": "annual",
+      "name_en": "Yearly",
+      "name_ar": "سنوي",
+      "price": 800,
+      "currency": "EGP",
+      "duration_days": 365,
+      "description_en": "12 months full access — Best Value",
+      "description_ar": "وصول كامل لمدة سنة — أفضل قيمة"
+    }
+  ]
+}
